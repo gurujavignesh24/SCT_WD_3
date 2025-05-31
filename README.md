@@ -13,9 +13,6 @@ Play it live: [sctwd3.netlify.app](https://sctwd3.netlify.app/)
 - ✅ Minimal, modern UI
 - ✅ Separate Landing and About pages
 
-## 🖼️ Screenshots
-
-![Screenshot of the game](https://sctwd3.netlify.app/screenshot.png) <!-- optional: replace with actual screenshot path -->
 
 ## 🧠 Technologies Used
 
@@ -23,5 +20,4 @@ Play it live: [sctwd3.netlify.app](https://sctwd3.netlify.app/)
 - CSS3
 - JavaScript (Vanilla)
 
-## 📁 Folder Structure
 
